@@ -1,5 +1,4 @@
 # pcap-sniffer
-pcap-sniffer Whitehat school
 
 개발환경 
 ubuntu 
